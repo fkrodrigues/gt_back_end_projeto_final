@@ -117,7 +117,7 @@ POST /login/token - Gerar token JWT
 
 
 Este projeto utiliza o **Swagger** para documentação interativa da API. 
-A documentação fornece uma visão clara dos endpoints disponíveis, seus parâmetros, formatos de requisição/resposta e exemplos de uso.
+A documentação fornece uma melhor visão dos endpoints disponíveis, seus parâmetros, formatos de requisição/resposta e exemplos de uso.
 
 ## Acessando a Documentação
 
